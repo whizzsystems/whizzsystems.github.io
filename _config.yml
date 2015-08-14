@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://whizzsystems.github.io
+title: Whizz Systems 
+email: marketing@whizzsystems.com
+author: whizzsystems
+description: Formed in 1989 as an advanced engineering and high mix low volume EMS services provider, Whizz Systems' vertically integrated structure is unique within the fast growing electronic design and manufacturing services (EMS) industry. We are built for today's complexity and changing requirements, and offer our customers a comprehensive set of value-added product realization services. Whizz has the deep technical expertise, flexibility, competency and scalable capacity to handle all of your project needs. <br /><br />We are also strategically positioned to service companies targeting solutions for the IoT industry. We have in house expertise to integrate a wide variety of sensors, deep technical expertise around RF/antenna design for connected sensors/beacons, and embedded/mobile connected gateways. In addition, we have partner ecosystem which can be leveraged to develop a complete end to end solution for all of your IoT needs.
+paginate: 5
+google_analytics: 
