@@ -1,0 +1,12 @@
+---
+published: true
+title: Embedded Ideas — Manufacturing the Future
+layout: post
+---
+At the dawn of the 20th century, the world was well on its way to a more digital and technical focused era while slowly discarding the remnants of a less enlightened technical age. With the boom of industry in the early years of the century, many paths and doors were opened for the conceiving and discoveries of new ideas and technologies. With the arrival of the computer and the power of software made possible through complex circuitry and electronic design, mankind has been able to reach the stars, something that was thought impossible merely a 150 years ago.
+
+Every device that is electronic in nature has not come to into existence in the perfect form it is often found in, however whenever a new idea for a device is conceived there is a long and detailed process known as the electronic design process from which it must pass. This process includes in-depth analysis and testing including prototyping the device to ascertain its limitation and flaws before it can be used to its full extent and purpose. The firm that provides such services is known as electronics manufacturing company. Electronic design and manufacturing companies are the backbones of modern industry as they provide the complex tools and technology on which industry operates. An electronic product design consultants company also excels in software, and always has an embedded software developer team.
+
+There are many industries in the world that are dedicated to providing embedded product manufacturing services however it must be noted that mere electronics, electrical and mechanical components are not all that are required for a machine to work efficiently. Often times there are some aspects of a machine that require a special service in order to operate. The components that ensure this are electronic in nature known as embedded hardware, but their real application comes from their software designed, by an embedded software developer. The purpose of these special software’s is to perform a single and important task in the machine that contributes to the overall efficiency and workability of the machine.
+
+For more info visit: http://www.whizzsystems.com/
