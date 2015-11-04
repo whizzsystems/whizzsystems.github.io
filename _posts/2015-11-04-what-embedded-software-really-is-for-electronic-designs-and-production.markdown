@@ -1,0 +1,12 @@
+---
+published: true
+title: What Embedded Software Really Is For Electronic Designs And Production
+layout: post
+---
+Embedded software is a specially programmed to perform specific tasks and is installed on chips or firmware’s which are found in embedded devices. Embedded software could perform a single basic or complex task, but as technology has evolved today, embedded devices programmed with embedded firmware can perform many complex tasks today. Contrary to popular and uneducated belief, embedded software and firmware development is different from software development. For one thing, unlike a software developer who programming an application, any team or individual working on embedded software and firmware development is required to have in-depth knowledge of hardware it is being developed for embedded software’s are made specifically for devices that are supposed to perform a single or set of task. Embedded software development, unlike IT software, is not dependent on how many lines of code there are, meaning a complex task might actually have only 20 lines of code as opposed to hundreds of lines for a regular software. One thing that significantly differentiates the two fields is the fact that where software developers work on PC for PC, embedded software developers work on PC for PCB and write all their coded software’s and firmware’s for these BOARDS and micro-controllers.
+
+Electronic product design, development and manufacturing Company has the three steps through which every device no matter how small or how big, how basic or how complex passes through on its way to becoming a useable and marketable product. First the basic concept of a new device is conceived in which it is decided what the purpose and uses will be; this step also includes early concept sketches about the shape and size of the device. Once that is finalized, the next step is development. In the development stages, the concept on paper is converted into a physical device which is thoroughly tested by prototyping and made sure that it performs accordingly to its desired function. After it has passed inspections and testing, the device is deemed appropriate for manufacturing and mass production and finds its way to the consumer.
+
+For more info visit: Electronic Product Design, Development & Manufacturing Services
+
+Posted by Whizz Systems
